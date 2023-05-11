@@ -1,0 +1,36 @@
+body {
+    background-image:  url();
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-color: #00d9ff;
+    color: #d00000;
+  }
+  
+  h1, h2, h3 {
+    color: #ff01ff;
+  }
+  
+  a {
+    color: #ff0505;
+  }
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  body {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+   margin-bottom: 20px;}
+ 
